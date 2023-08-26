@@ -1,0 +1,189 @@
+
+
+.logo {
+    width: 30%;
+    font-weight: 700;
+    
+    margin-left: 10px;  
+}
+
+.logo a {
+    font-size: 25px;
+}
+.action_links {
+   
+    width: 60%;
+    
+    justify-content:space-between;
+    display: flex;
+    margin-right: 10px;
+    
+} 
+
+.nav_links {
+    font-size: 23px;
+    color: black;
+    text-decoration: none; /*for removing underlines of link */
+}
+
+.content {
+    margin-top: 100px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-evenly;
+
+   
+}
+
+.content img {
+    height: 50px;
+    width: 50px;
+}
+
+.section1_para {
+    margin-top: 80px;
+    width: 50%;
+}
+
+.section1_para h1 {
+    color: rgb(25, 57, 59);
+    font-weight: 700;
+
+}
+
+.section1_para p {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+#about_us {
+    padding-top: 70px;
+    margin-top: 50px;
+    background-color: rgb(123, 222, 222);
+}
+
+#about_us h1 {
+    color: rgb(15, 15, 28);
+    margin-bottom: 20px;
+}
+
+.content_2 {
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 100px;
+    
+    width: 50%;
+}
+
+#about_us h2 {
+    color: rgb(15, 15, 28);
+    font-weight: 600;
+}
+
+#about_us p {
+    font-size: 22px;
+}
+
+
+#about_us a {
+    font-size: 22px;
+}
+
+#Recipes{
+    padding-top: 70px;
+}
+.content_3 {
+    padding-top:20px ;
+    padding-bottom: 50px;
+    margin-left: 100px;
+    width: 80%;
+}
+
+.dishes {
+    margin-top: 30px;
+}
+
+.dishes img {
+    border-radius: 20px;
+}
+.spc_recp .dishes .recipe{
+    display: flex;
+    justify-content: end;
+}
+
+.spc_recp .dishes .recipe p {
+    margin-top: 20px;
+    font-size: 20px;
+    width: 60%;
+}
+
+.spc_recp .dishes .recipe img {
+    margin-left: 50px;
+    width: 35%;
+}
+
+#reviws{
+    padding-top: 70px;
+    background-color: gray;
+}
+.content_4 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 100px;
+    width: 80%;
+    
+}
+
+.content_4 div {
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    
+}
+
+.content_4 div img{
+    border-radius: 50%;
+    margin-right: 80px;
+}
+
+.content_4 div p b {
+    font-size: 25px;
+}
+
+.content_4 div p {
+    color: black;
+    font-weight: 600;
+}
+
+#callOfAction {
+    
+    background-color: rgb(64, 59, 59);
+    padding-bottom: 140px;
+}
+
+.content_5 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 100px;
+    width: 80%;
+    color: #ffffff;
+}
+
+.content_5 h1 {
+    margin-bottom: 30px;
+}
+
+.content_5 p {
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.content_5 ul {
+    font-size: 20px;
+}
+
+.content_5 ul li {
+    margin-top: 10px;
+}
